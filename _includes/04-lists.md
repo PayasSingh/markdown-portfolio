@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+[ ] Read The Goldfinch
+[ ] Cook food at home more
+[ ] Watch Netflix
